@@ -1,9 +1,9 @@
-import org.junit.Test;
+
 
 public class Main {
 
-    @Test
-    public void testHelloWrold() {
+   
+   static  public void main(String[] args) {
         System.out.println("HelloWorld!");
     }
 }
